@@ -1,0 +1,19 @@
+# backend
+backend/node_modules/
+backend/dist/
+backend/.env
+backend/coverage/
+
+# admin
+admin/node_modules/
+admin/dist/
+admin/dist-ssr/
+admin/.env
+admin/.vite/
+
+# merchant
+merchant/node_modules/
+merchant/dist/
+merchant/dist-ssr/
+merchant/.env
+merchant/.vite/
