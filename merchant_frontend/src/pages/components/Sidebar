@@ -1,0 +1,33 @@
+import {
+  FaWallet,
+  FaFileInvoice,
+  FaArrowUp,
+  FaUniversity,
+  FaUser,
+  FaLock,
+} from "react-icons/fa";
+
+import esewaLogo from "../assets/Esewa-logo.png";
+
+function Sidebar({
+  activeMenu,
+  setActiveMenu,
+  handleLogout,
+}) {
+  const menuItems = [
+    { name: "Dashboard", icon: <FaWallet /> },
+    { name: "Statement", icon: <FaFileInvoice /> },
+    { name: "Get Money Out", icon: <FaArrowUp /> },
+    { name: "Apply Loan", icon: <FaUniversity /> },
+    { name: "User", icon: <FaUser /> },
+    { name: "Change Password", icon: <FaLock /> },
+  ];
+
+  return (
+    <div className="sidebar">
+      {/* existing sidebar code */}
+    </div>
+  );
+}
+
+export default Sidebar;

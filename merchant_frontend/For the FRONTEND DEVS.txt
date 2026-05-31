@@ -1,0 +1,37 @@
+For the FRONTEND DEVS
+ VISUALIZE WITH THIS VIDEO
+https://www.youtube.com/watch?v=aCptN9bDNyI
+THEN SEE THE GIVEN WEBSITE WITH FOR THE HELP
+@51123364847802 https://merchant.esewa.com.np
+
+
+Then Start developing as per our discussions
+like  creating the new pages in the merchant page 
+in the merchant page of the svg image add the hardship also 
+and admin pages 
+
+#admin page
+the admin can see the in the dashboard
+1) total  merchants data with gain in %
+2) register users 
+3) total turnover
+4) Balance
+
+in the dashboars add the platform balance overview pie chart
+also add the recent transaction and recent registration
+in the side bar add the merchants section
+1 where the admin can see the overall data of all the merchants 
+data in the pov
+2)Transaction Report also in the data and in the chart
+3)Settlement section in which admin can see the total settlement
+report to the financial person
+4)Loans section in which the admin their all the merchants Esewa credit score 
+and the total applied loans and accepted loans and rejected loans and pending loans
+ 4.1) if the admin opens the specific merchant then admin can see their 
+their merchant credit score and their rating by the AI 
+Their tier score 
+AI given loan limit and Request configuration
+and if they have the prolem then hardship request with their proof and the asked help
+if the admin want to see their social score behavioral habits and psychometric profiles 
+in the social score behavioral admin can see their frequently transactions with them with that admin can ask whether they are trustable or not.
+in the psychometric profiles admin can see their problem configuration and crisis time behaviour
